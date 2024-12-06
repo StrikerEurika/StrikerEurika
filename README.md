@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ngen Tina</h1>
-<h3 align="center">A student passionate about Data Science, and Web Developer.</h3>
+<h3 align="center">A student passionate about CODING.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **ngentina69@gmail.com**
+- 📫 How to reach me **ngentina12345@gmail.com**
 
 - ⚡ Fun fact **I am a fan of MCU!!!**
 
